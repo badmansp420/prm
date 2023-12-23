@@ -80,7 +80,20 @@ main .container-fluid .center-card {
     text-align: center;
 }
 
-main .card .card-body .row .col .card-title {
+main .container-fluid .titel-fb-post h5 {
+    text-align: center;
+    margin-top: 3rem;
+    font-size: 32px;
+    color: var(--color-white);
+
+}
+
+main .container-fluid .titel-fb-post hr {
+    color: var(--color-white);
+}
+
+
+main .card .card-body .row .col .card-title h5 {
     font-size: 39px;
 
 }
