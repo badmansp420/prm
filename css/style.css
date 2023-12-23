@@ -11,7 +11,7 @@
 }
 
 body {
-    height: 500vh;
+    /* height: 500vh; */
     background: #003049;
     scroll-behavior: smooth;
 }
@@ -87,4 +87,8 @@ main .card .card-body .row .col .card-title {
 
 main .card .card-body .card {
     height: 108lvh;
+}
+
+footer {
+    margin-top: 20%;
 }
