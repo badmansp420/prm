@@ -13,6 +13,7 @@
 body {
     height: 500vh;
     background: #003049;
+    scroll-behavior: smooth;
 }
 
 header {
@@ -82,4 +83,8 @@ main .container-fluid .center-card {
 main .card .card-body .row .col .card-title {
     font-size: 39px;
 
+}
+
+main .card .card-body .card {
+    height: 108lvh;
 }
